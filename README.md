@@ -1,2 +1,2 @@
 # neuralyte.ai
-Code repository for neuralyte.ai
+Code repository for neuralyte.ai.
