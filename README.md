@@ -1,1 +1,1 @@
-# neuralyte.github.io
+# neuralyte.ai
